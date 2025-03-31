@@ -2,10 +2,6 @@ Title
 ----------
 Advance Data Management by Faruk Ahamed Fahim (Beta edition)
 
-Description
-----------
-Advance Data Management is a terminal-based tool for managing text-based records efficiently. It allows users to create, save, search, and manage records in text files with optional encoding for added security. The project features a settings menu to personalize user experience, including color themes, fonts, and data encoding preferences.
-
 Features
 File Management
   - Create new text files
