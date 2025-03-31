@@ -2,6 +2,8 @@ Title
 ----------
 Advance Data Management by Faruk Ahamed Fahim (Beta edition)
 
+![Screenshot](https://github.com/faruk-ahamedfahim/advance-data-management/blob/9e73e78266fef9d2f581863b276c3d15a37ba1fd/Screenshot_20250331-213331.png)
+
 Features
 File Management
   - Create new text files
