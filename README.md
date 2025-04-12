@@ -8,7 +8,8 @@ Features
 File Management
   - Create new text files
   - Delete existing text files
-  - Overwrite existing files with new data
+  - Overwrite existing files with new data.
+
 Data Management
   - Save name, score(by default), and additional user-defined fields
   - Search for data by name across multiple text files
