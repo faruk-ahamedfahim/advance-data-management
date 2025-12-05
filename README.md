@@ -71,8 +71,10 @@ Future Improvements
 - Implement a more advanced encryption system
 - Improve terminal UI for better navigation
 - Expand customization options for fonts and themes
-- Add a graphical interface 
-
+- Add a graphical interface
+- Change the core Ui
+- Add support for Drive-in
+- Add [Full User Control Environment]
 License
 This project is open-source. You are free to modify and distribute it under the terms of your chosen license. However, please inform me before making any modifications or distributing it. Additionally, you must notify others that this is an open-source project by:
 ----------------------------
